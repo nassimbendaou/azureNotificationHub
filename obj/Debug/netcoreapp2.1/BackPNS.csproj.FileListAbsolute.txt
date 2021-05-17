@@ -1,0 +1,13 @@
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\bin\Debug\netcoreapp2.1\BackPNS.deps.json
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\bin\Debug\netcoreapp2.1\BackPNS.runtimeconfig.json
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\bin\Debug\netcoreapp2.1\BackPNS.runtimeconfig.dev.json
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\bin\Debug\netcoreapp2.1\BackPNS.dll
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\bin\Debug\netcoreapp2.1\BackPNS.pdb
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.csprojAssemblyReference.cache
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.RazorAssemblyInfo.cache
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.RazorAssemblyInfo.cs
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.AssemblyInfoInputs.cache
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.AssemblyInfo.cs
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.RazorTargetAssemblyInfo.cache
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.dll
+C:\Users\Nbendaou\source\repos\BackPNS\BackPNS\obj\Debug\netcoreapp2.1\BackPNS.pdb
